@@ -1,2 +1,2 @@
-# about-me
+# A small about-me webpage
 
